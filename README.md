@@ -26,7 +26,7 @@ The cloud application is a video analysis platform employing four Lambda functio
 
 ### Architecture Diagram
 
-[Insert architecture diagram here]
+![Architecture Diagram](archi)
 
 ### Bucket Details
 
