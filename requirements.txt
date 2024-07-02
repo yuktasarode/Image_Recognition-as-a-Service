@@ -1,0 +1,7 @@
+boto3
+ffmpeg
+ffmpeg-python
+imutils
+numpy
+opencv-python
+Pillow
