@@ -54,6 +54,13 @@ The cloud application is a video analysis platform employing four Lambda functio
   - Processes each image frame to detect and recognize faces using OpenCV and ResNet-34.
   - Stores recognized names as text files in `output`.
 
----
 
+### AWS Services used:
+1. IAM
+2. S3
+3. Lambda
+4. Cloud Watch
+5. ECR
+   
+---
 This project not only enhanced my proficiency in cloud programming and PaaS but also equipped me with practical skills in implementing scalable and efficient serverless applications using AWS Lambda.
