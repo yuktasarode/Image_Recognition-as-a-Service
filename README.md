@@ -8,7 +8,7 @@ In this project, I developed an elastic cloud application using AWS Lambda and o
 
 ## Description
 
-The cloud application is a video analysis platform employing four Lambda functions to execute a multi-stage processing pipeline for user-uploaded videos:
+The cloud application is a video analysis platform employing Lambda function and ECR to execute a multi-stage processing pipeline for user-uploaded videos:
 
 1. **Pipeline Start (Stage 1)**:
    - Users upload videos to the designated input bucket, named `input`.
